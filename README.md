@@ -1,5 +1,6 @@
-## Hi there 👋
-
+Hello, It's Aviskar.
+I am learning Java, OOP in Java and More.
+Also, I am Not learning for only fun but also for better future
 <!--
 **Aviskar-1/Aviskar-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
